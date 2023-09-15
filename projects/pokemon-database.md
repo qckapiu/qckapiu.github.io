@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/pokemon.jpg
-title: "Database/UI Interface"
+title: "Pokemon Database"
 date: 2023
 published: true
 labels:
