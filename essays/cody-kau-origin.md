@@ -11,6 +11,7 @@ labels:
   - ui
   - user interface
 ---
+<img width="1000px" class="rounded" src="../img/osaka.jpg">
 
 # Cody Kau: Origin
 
