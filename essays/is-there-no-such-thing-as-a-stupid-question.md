@@ -29,13 +29,11 @@ Raymond establishes the following principles as necessary for a “smart questio
 -	Follow up with a brief note on the solution
 
 ["Smart" Question](https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it)
-
 <img width="1000px" class="rounded" src="../img/forum1.jpg">
 
 This is an example of a post that meets most of the criteria listed by Raymond. While the post itself is short and simple, it is one of the most viewed posts on Stack Overflow. It has drawn many users to thoroughly answer the question and is a post that I’ve personally used while learning Java.
 
 ["Not so Smart" Question](https://stackoverflow.com/questions/77113348/need-to-create-a-python-script-to-return-this-output)
-
 <img width="1000px" class="rounded" src="../img/forum2.jpg">
 
 This is an example of a question that does NOT meet Raymond’s criteria. Immediately you can tell it is likely a homework question and shows no effort in solving the problem.
@@ -49,14 +47,11 @@ Smart and stupid questions are subjective based on the person being asked. Howev
 
 References
 “How to Ask Questions the Smart Way” by Eric Raymond
-
 [http://www.catb.org/esr/faqs/smart-questions.html#not_losing](http://www.catb.org/esr/faqs/smart-questions.html#not_losing)
 
 “What is a NullPointerException, and how do I fix it” by Ziggy
-
 [https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it](https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it)
 
 “Need to create a python script to return this output” by Aman Rawat
-
 [https://stackoverflow.com/questions/77113348/need-to-create-a-python-script-to-return-this-output](https://stackoverflow.com/questions/77113348/need-to-create-a-python-script-to-return-this-output)
 
