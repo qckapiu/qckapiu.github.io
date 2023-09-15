@@ -1,3 +1,19 @@
+---
+layout: essay
+type: essay
+title: "The Bridge Between Java and C Languages"
+# All dates must be YYYY-MM-DD format!
+date: 2023-09-14
+published: true
+labels:
+  - languages
+  - javascript
+  - java
+  - c
+---
+
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+
 E10: Reflect on Javascript 1 – The Bridge Between Java and C Languages
 
 Javascript was relatively simple to pick up thanks to prior knowledge of the Java and C languages. I personally felt that Javascript was a happy medium between the two, a bridge of the languages in a sense. 
