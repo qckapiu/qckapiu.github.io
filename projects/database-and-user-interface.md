@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/database/database.png
+image: img/database.png
 title: "Database/UI Interface"
 date: 2023
 published: true
