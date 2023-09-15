@@ -12,7 +12,7 @@ labels:
   - c
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/bridgeimg.jpg">
 
 E10: Reflect on Javascript 1 – The Bridge Between Java and C Languages
 
