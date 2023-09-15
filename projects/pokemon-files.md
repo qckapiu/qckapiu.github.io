@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pokemonfile.jpg
+image: img/pokemonbank.jpg
 title: "Pokemon File IO"
 date: 2023
 published: true
