@@ -9,11 +9,12 @@ labels:
 ---
 # Project: UH Manoa Campus Food Database
 
+
 ## Overview
-### The problem:
+#### The problem:
 It's lunchtime and you decide it is time to eat. You Google "places to eat nearby" and get a random assortment of restaurants and ended up even more stumped than before. Perhaps you feel like eating a burger but aren't sure which restaurant serves burgers, or which ones are even any good.
 
-### The solution:
+#### The solution:
 By creating a database that catalogs all of the restaurants on campus, we would have a centralized source of information containing various menu items and prices. A user would be able to rate an item, and highly rated items would encourage other users to try it. Users would also be able to favorite both restaurants and items, which would allow them to find their favorite meals faster. Restaurant employees could be given special "restaurant admin" privileges to add or adjust menu items. The main admin would be able to add or remove restaurants as needed.
 
 ## Mockup page ideas
