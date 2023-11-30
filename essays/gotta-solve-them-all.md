@@ -22,11 +22,14 @@ It is far more efficient to write code that can solve common problems rather tha
 Design patterns are not limited to improving the program’s code, it can be created to deal with the actual design of the application you’re creating. The moment a website is first created, you start out with a blank sheet. The website designer is left with the task to create a cohesive and eye-catching design, as well as making it functional. I’ve used techniques such as color blocking and consistent styling in order to accomplish this.
 
 <img width="1000px" class="rounded" src="../img/design-1a.png">
+
 <img width="1000px" class="rounded" src="../img/design-2.png">
 
 ## A single solution can't solve every problem
 
 If a design pattern is too general, it is possible for the program to incorrectly assume that two different problems can be solved with the same solution. While this will lead to errors, I believe that it is a fundamental step in improving the program. Running into these types of bugs will force the programmer to refine their design pattern, allowing for more efficiency and cleaner code in return.
+
+During an in-class WOD (an assignment graded on an all or nothing point system), I was tasked to recreate a website based off a currently existing one. The template that I worked off of was for a website that had small margins, even for the full width picture. I attempted to create the website with the old template which created margins that I could not get rid of. I ended up getting 0 points because I couldn't realize in time that there was a non-fluid container on the page that imported the various pages. While I ultimately figure out how to solve the similar but different problem, this did lead to me losing 100 points.
 
 ## References
 - [https://sourcemaking.com/design_patterns](https://sourcemaking.com/design_patterns)
