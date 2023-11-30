@@ -21,7 +21,7 @@ It is far more efficient to write code that can solve common problems rather tha
 
 Design patterns are not limited to improving the program’s code, it can be created to deal with the actual design of the application you’re creating. The moment a website is first created, you start out with a blank sheet. The website designer is left with the task to create a cohesive and eye-catching design, as well as making it functional. I’ve used techniques such as color blocking and consistent styling in order to accomplish this.
 
-<img width="1000px" class="rounded" src="../img/design-1a.png">
+<img width="1000px" class="rounded" src="../img/design-1.png">
 
 <img width="1000px" class="rounded" src="../img/design-2.png">
 
