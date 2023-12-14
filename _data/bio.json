@@ -4,14 +4,13 @@
     "label": "Student",
     "picture": "https://github.com/qckapiu.png",
     "email": "codykau@hawaii.edu",
-    "phone": "808-306-2656",
+    "phone": "808-xxx-xxxx",
     "website": "https://qckapiu.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "qckapiu", "url": "http://github.com/qckapiu" },
-      { "network": "linkedin", "username": "codykau", "url": "http://linkedin.com/in/cody-kau-02b51b231" },
-      { "network": "instagram", "username": "qckapiu", "url": "http://instagram.com/qckapiu" }
+      { "network": "linkedin", "username": "codykau", "url": "http://linkedin.com/in/cody-kau-02b51b231" }
     ]
   },
   "interests": [
