@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/pokemon.jpg
 title: "Pokemon Database"
-date: 2023
+date: 2023-04-30
 published: true
 labels:
   - database
