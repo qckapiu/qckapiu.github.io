@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/pokemonbank.jpg
 title: "Pokemon File IO"
-date: 2023
+date: 2023-03-08
 published: true
 labels:
   - file
