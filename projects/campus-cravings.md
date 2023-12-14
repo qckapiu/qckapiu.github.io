@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/M3-user-home.png
 title: "Campus Cravings"
-date: 2023
+date: 2023-12-10
 published: true
 labels:
   - database
