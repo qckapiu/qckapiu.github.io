@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/qckapiu.png",
     "email": "codykau@hawaii.edu",
-    "phone": "808-xxx-xxxx",
+    "phone": "808-306-2656",
     "website": "https://qckapiu.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
@@ -21,11 +21,15 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Bootstrap", "React", "Meteor" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "g++" ]
+      "keywords": [ "MacOS", "Git/GitHub", "g++", "JSFiddle", "IntelliJ IDEA" ]
+    },
+    {
+      "name": "Microsoft Office and Adobe",
+      "keywords": [ "Word", "Excel", "Powerpoint", "Photoshop", "After Effects", "Indesign" ]
     }
   ],
   "education": [
@@ -35,6 +39,7 @@
       "studyType": "B.A.",
       "startDate": "2011-09-01",
       "endDate": "Present",
+      "note": "Took a break from school between 2014 and 2022 to focus on work",
       "courses": [
       ]
     }
@@ -43,14 +48,102 @@
     {
       "company": "EMET Services",
       "position": "Environmental Specialist",
-      "website": "",
+      "website": "https://www.emetservice.com/",
       "startDate": "2018-09-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Manages air monitoring documentation and reports, laboratory analysis, processes HAZMAT samples, data entry."
+        "- Manage air monitoring documentation and reports
+        - Conducts laboratory analysis and processes HAZMAT samples (such as Asbestos or Lead)
+        - Data entry"
       ]
     },
+    {
+      "company": "Costco, Kapolei",
+      "position": "Front End Assistant/Cashier",
+      "website": "https://www.costco.com/warehouse-locations/kapolei-hi-1038.html",
+      "startDate": "2016-04-01",
+      "endDate": "2018-08-01",
+      "summary": "",
+      "highlights": [
+        "- Accurately handle cash transactions in a fast-paced environment while also providing great customer service
+        - Assess situations where a customer needs assistance and quickly resolve any problems if they arise
+        - Assist the cashier by packing the shopping cart, replacing items for the customer, etc"
+      ]
+    },
+    {
+      "company": "Curry House Coco Ichibanya, Kapolei",
+      "position": "Assistant Manager/Waiter/Kitchen Staff",
+      "website": "https://ichibanyausa.com/",
+      "startDate": "2013-09-01",
+      "endDate": "2015-12-01",
+      "summary": "",
+      "highlights": [
+        "- Oversee the kitchen and restaurant area and ensure the quality of the
+food before it is sent out
+        - Delegate roles in the kitchen to clean and prep when there are no
+orders
+        - Take inventory of ingredients and communicate it to the manager
+        - Open the restaurant and prepare the ingredients for the day
+        - Close the restaurant and accurately count the cash received for the
+day
+        - Manage breaks for employees
+        - Resolve problems with customers quickly and effectively"
+      ]
+    },
+    {
+      "company": "Learning Assistance Center, University of Hawaii at Manoa",
+      "position": "Economics Tutor",
+      "website": "https://manoa.hawaii.edu/undergrad/Learning/",
+      "startDate": "2014-01-01",
+      "endDate": "2014-05-31",
+      "summary": "",
+      "highlights": [
+        "- Prepare lesson plans for a one hour tutoring session
+        - Tutor one on one with students three times a week
+        - Be able to adjust teaching style depending on each different student"
+      ]
+    },
+    {
+      "company": "Jack in the Box, Waianae",
+      "position": "Team Leader/Shift Manager",
+      "website": "https://locations.jackinthebox.com/us/hi/waianae/85-950-farrington-hwy",
+      "startDate": "2012-09-01",
+      "endDate": "2013-08-31",
+      "summary": "",
+      "highlights": [
+        "- Ensure food quality and food safety procedure are followed every hour
+        - Delegate roles and designate times for employees to take breaks
+        - During the graveyard shift, break down the food stations and properly
+clean it
+      - Handle customer complaints and resolve any issues swiftly and fairly"
+      ]
+    },
+    {
+      "company": "Hawaii News Now Internship, Honolulu",
+      "position": "Video Editor",
+      "website": "https://www.hawaiinewsnow.com/story/16479243/its-academic-hawaii/",
+      "startDate": "2011-09-01",
+      "endDate": "2011-12-31",
+      "summary": "",
+      "highlights": [
+        "- Edited a game show for high school students called /“It’s Academic
+Hawaii/”
+        - Ensure that the audio and video are of quality"
+      ]
+    },
+    {
+      "company": "Kauhale Internship, Waianae",
+      "position": "Video Editor/Photographer",
+      "website": "",
+      "startDate": "2011-09-01",
+      "endDate": "2012-06-31",
+      "summary": "",
+      "highlights": [
+        "- Created videos about the Waianae community
+        - Created and promoted a brand (Lucky We Live in Hawaii)"
+      ]
+    }
   ],
   "references": [
     {
