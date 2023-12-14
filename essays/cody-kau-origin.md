@@ -11,9 +11,7 @@ labels:
   - ui
   - user interface
 ---
-<img width="1000px" class="rounded" src="../img/osaka.jpg">
-
-# Cody Kau: Origin
+<img width="1000px" class="rounded" src="../img/osaka.JPG">
 
 ## Early College:
 I began my freshman year in 2011 at UH Manoa. I enrolled in the Academy for Creative Media with the intent of pursuing photography and videography. After a few years of taking various classes, I realized I had no idea what I wanted to pursue a career in. I performed poorly in my Spring 2014 semester and decided to take an extended break to figure out what I wanted to do.
