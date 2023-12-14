@@ -9,7 +9,6 @@ labels:
 ---
 # Project: UH Manoa Campus Food Database
 
-
 ## Overview
 #### The problem:
 It's lunchtime and you decide it is time to eat. You Google "places to eat nearby" and get a random assortment of restaurants and ended up even more stumped than before. Perhaps you feel like eating a burger but aren't sure which restaurant serves burgers, or which ones are even any good.
