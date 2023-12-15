@@ -39,8 +39,15 @@ In ICS 314, we utilized the IDEs JSFiddle and primarily IntelliJ IDEA for our so
 Learning how to use a greater variety of IDEs will give us as developers access to more tools, and we can find the IDE that suits our needs the best. Many companies in the tech industry such as Google and Meta allow their software developers to use their IDE of choice, so it is important to experiment now, especially since we can add them to our portfolio.
 
 ## User Interface Frameworks (UI Frameworks)
-Without knowing, I've been using UI Frameworks from the very beginning of my programming journey. In ICS 111, we were tasked to create a program that generated a grid of circles of various sizes and colors.
+Similar to how developers use IDEs to provide them with tools to improve their programming experience, UI Frameworks exist to provide pre-built assets. Assets such as buttons, forms, rows, or colummns can already be built in HTML and styled in CSS. But if you wanted to create a more complex program with a multitude of components, then you would have to build each of them individually. With UI frameworks, we can import the assets that we want to use, and it takes far less space in your code.
 
+Without knowing, I've been using UI Frameworks from the very beginning of my programming journey. In ICS 111, we were tasked to create a program in Java that generated a grid of circles of various sizes and colors.
+
+<img width="1000px" class="rounded" src="../img/circlesblunder.png">
+
+Since Java comes with frameworks in the form of Java Libraries, I was able to import the Circles library that provided me with functions that generated circles as long as the correct parameters were entered.
+
+In ICS 314, we used React Bootstrap for web application development. It provided us with assets like logos (Instagram, Facebook, LinkedIn, etc), forms, cards, and buttons. We learned to both build a website from scratch and also work off a template since it provided more complexity. Learning to use more UI frameworks throughout the time that I am in school will be helpful to broaden our toolset. Companies like Google utilize Angular as their main front-end framework, and X (formerly Twitter) uses ReactJS. Regardless of what industry we choose to pursue, we can prep beforehand by learning how to use the various frameworks and IDEs of the companies we're interested in.
 
 ## References
 - [List of open-source video games](https://en.wikipedia.org/wiki/List_of_open-source_video_games)
