@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Pokemon File IO | Cody Kau| Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/qckapiu.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Cody Kau| Professional Portfolio">
+    <meta property="og:url" content="https://qckapiu.github.io/projects/pokemon-files.html">
+    <meta property="og:title" content="Pokemon File IO | Cody Kau| Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/qckapiu.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Pokemon File IO | Cody Kau| Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Cody Kau</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Pokemon File IO</h1>
+ <h2 id="readwrite-file">Read/Write File</h2>
+<p>I created the functions readfile and writefile. These functions would access an array that would either be loaded with Pokemon from a file (readfile) or load a file from an array of Pokemon (writefile).</p>
+
+<h2 id="driver">Driver</h2>
+<p>This program used a driver to call the functions and execute the code. I created a few test cases by adding various Pokemon by including the species and level. These were added into the array “pokemonbank”. Once the array was filled, I would call writefile and overwrite the previous contents with the list of Pokemon. I conducted various cases to make sure that the program worked as intended.</p>
+
+<h2 id="output">Output</h2>
+<p>Below is a screenshot of an example output from the program.
+<img class="img-fluid" src="../img/pokemonfileio.png" /></p>
+
+<h2 id="experience-gained">Experience Gained</h2>
+<p>This project required us to have a solid understanding of the addresses of each variable and how they were linked. If the implementation was done incorrectly, this could lead to the array pointing to a NULL address or even worse it could point to an address of a variable that already exists. This could lead to the program inadvertantly changing variables without your intent.</p>
+
+<p>This project also required us to conduct test cases for our program to ensure that each of our functions were working as intended. I was able to improve on cleaning up my code to ensure that the test cases ran smoothly.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

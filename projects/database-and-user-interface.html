@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Database/UI Interface | Cody Kau| Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/qckapiu.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Cody Kau| Professional Portfolio">
+    <meta property="og:url" content="https://qckapiu.github.io/projects/database-and-user-interface.html">
+    <meta property="og:title" content="Database/UI Interface | Cody Kau| Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/qckapiu.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Database/UI Interface | Cody Kau| Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Cody Kau</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Database/UI Interface</h1>
+ <h2 id="database">Database</h2>
+<p>The database I created stored records that contained an account number, name, and address in a linked list. This project required me to be able to keep track of the address of each record and how it connected to other records in the linked list. In the database, I defined the following functions:</p>
+<ul>
+  <li>addRecord: adds a new record and inserts it in the list based off of account number</li>
+  <li>findRecord: finds all records with the specified account number</li>
+  <li>printAllRecords: prints in the console the list of all records</li>
+  <li>deleteRecord: deletes all records with the specified account number</li>
+</ul>
+
+<p>Additionally the program needed to read a specified file upon start up, and write on a specified file and free the allocated space when the user selected the quit option.</p>
+
+<h2 id="user-interface">User Interface</h2>
+<p>The user interface I created allowed the user to select between the following options:</p>
+<ul>
+  <li>add: create a new record</li>
+  <li>printall: print all existing records</li>
+  <li>find: find an existing record</li>
+  <li>delete: delete an existing record</li>
+  <li>quit: exit program</li>
+</ul>
+
+<p>Even if the user only typed a few letters of the option such as “ad”, the program would still execute the add option. This allows the user to simply type “q” to quit. However, if the user input an incorrect option, the program would print that it was an invalid entry. I needed to design the user interface so that it was intuitive to the user. If a record was added or found, I would print the specified record if it was successful. Otherwise, the program would print that there was an error.</p>
+
+<h2 id="output">Output</h2>
+<p>Below is a screenshot of an example output from the program.
+<img class="img-fluid" src="../img/userinterface.png" /></p>
+
+<h2 id="experience-gained">Experience Gained</h2>
+<p>This project spanned across multiple weeks and consisted of several different assignments that built each element of this project. It made it incredibly important to keep up with the assignments as well as making sure that we were able to debug it properly. If any one function of the program did not work, it would end up causing heavy delays on coding the rest of the project. I was able to gain experience on being on a linear development schedule, where each task built upon the previous one.</p>
+
+<p>Since we needed to keep track of all of the records that we created, we had to develop many test cases to ensure that we weren’t either losing the address to the records that we created or any other assortment of bugs. Personally I ran into a lot of trouble making sure my add and delete functions worked properly because it required us to be accurate with our tracking of pointers.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
