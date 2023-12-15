@@ -39,6 +39,8 @@ In ICS 314, we utilized the IDEs JSFiddle and primarily IntelliJ IDEA for our so
 Learning how to use a greater variety of IDEs will give us as developers access to more tools, and we can find the IDE that suits our needs the best. Many companies in the tech industry such as Google and Meta allow their software developers to use their IDE of choice, so it is important to experiment now, especially since we can add them to our portfolio.
 
 ## User Interface Frameworks (UI Frameworks)
+Without knowing, I've been using UI Frameworks from the very beginning of my programming journey. In ICS 111, we were tasked to create a program that generated a grid of circles of various sizes and colors.
+
 
 ## References
 - [List of open-source video games](https://en.wikipedia.org/wiki/List_of_open-source_video_games)
