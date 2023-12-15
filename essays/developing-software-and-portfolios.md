@@ -32,6 +32,11 @@ In the game industry, most companies do not publish their code as open source. I
 Due to my interest in UX/UI design in the game development industry, joining open source game projects can be a great way to build my portfolio and gain experience.
 
 ## Development Environments
+Regardless of the programming language that you choose to code in, it is possible to use any program to do so. In ICS 212, I programmed C code primarily in TextEdit and transferred it over to vi afterwards. However in the past few decades, various Integrated Development Environments (IDEs) have been created to provide various tools to increase efficiency and bring quality of life features to developers.
+
+In ICS 314, we utilized the IDEs JSFiddle and primarily IntelliJ IDEA for our software development. In IntelliJ, we were able to use tools like ESLint and TestCafe. ESLint would mark code that either had syntax errors or did not follow the class coding style. Coding style is a set of guidelines that helps prevent errors and creates consistency throughout the code. Having a set coding style is incredibly important when it comes to group projects since each of the group members needs to be able to read and understand each other's code. TestCafe was a tool that allowed us to create test cases in IntelliJ and it would open a browser and attempt to run each test. Having a testing tool allows for a thorough check for bugs that you may not have thought of initially.
+
+Learning how to use a greater variety of IDEs will give us as developers access to more tools, and we can find the IDE that suits our needs the best. Many companies in the tech industry such as Google and Meta allow their software developers to use their IDE of choice, so it is important to experiment now, especially since we can add them to our portfolio.
 
 ## User Interface Frameworks (UI Frameworks)
 
